@@ -1,0 +1,81 @@
+
+ body {
+ 	width: 100%;
+	margin: 0 auto; 
+
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background-color: #DEB887;
+ }
+
+ img {
+ 	display: block;
+    margin: auto;
+    align-items: center;
+ }
+
+ h2, h5 {
+ 	text-align: center;
+ 	font-family: 'Permanent Marker', cursive;
+ 	margin-left: 20px;
+ 	padding-left: 20px;
+ }
+
+ #burgerMenu {
+ 	font-family: 'Cherry Cream Soda', cursive;
+ 	font-weight: normal;
+ 	font-size: 15px;
+ 	text-align: left;
+ 	align-items: left;
+
+ 	border-radius: 5px;
+ 	width: 70%;
+ 	margin: 10px;
+ 	padding: 10px;
+ 	background-color: #EE7600;
+
+ }
+
+ .burgerDevoured {
+ 	font-family: 'Cherry Cream Soda', cursive;
+ 	font-weight: normal;
+ 	font-size: 15px;
+ 	text-align: left;
+ 	align-items: center;
+
+	border-radius: 5px;
+ 	width: 100%;
+ 	margin: 5px;
+ 	padding: 10px;
+ 	color: gray;
+ 	background-color:  #dcdcdc;
+ }
+
+
+#burg {
+	background-color: gray;
+	text-align: center;
+}
+
+#addBurger{
+	margin-left: 45%;
+}
+
+h6{
+	color: black;
+	text-align: center;
+}
+
+#devour{
+	font-family: 'Cherry Cream Soda', cursive;
+ 	font-weight: normal;
+ 	font-size: 12px;
+	text-align: center;
+	margin: 10px;
+	
+ }	
+
+
+
+
